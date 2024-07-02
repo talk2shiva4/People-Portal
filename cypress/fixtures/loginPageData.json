@@ -1,0 +1,10 @@
+{
+    "admin_username" : "CPD_Admin",
+    "admin_password" : "test123",
+    "super_username" : "CPD_user",
+    "super_password" : "test123",
+    "hyper_username" : "dale",
+    "hyper_password" : "dale1234",
+    "normal_username" : "jode",
+    "normal_password" : "jode1234"
+}

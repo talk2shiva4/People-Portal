@@ -1,0 +1,14 @@
+{
+  "name": "people-portal",
+  "version": "1.0.0",
+  "description": "Cypress automation for People Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shiva",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.12.0"
+  }
+}
