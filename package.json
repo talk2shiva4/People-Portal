@@ -4,11 +4,13 @@
   "description": "Cypress automation for People Portal",
   "main": "index.js",
   "scripts": {
+    "test:LoginFlow": "npx cypress run --spec cypress/e2e/tests/loginPage.cy.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Shiva",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^13.12.0"
+    "cypress": "^13.12.0",
+    "cypress-mochawesome-reporter": "^3.8.2"
   }
 }

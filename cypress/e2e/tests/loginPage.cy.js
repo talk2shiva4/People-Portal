@@ -36,6 +36,6 @@ describe('Test Login',() =>{
         loginPageObj.enter_password(loginPageData.normal_password)
         loginPageObj.click_submitButton()
         loggedInObj.click_profileOpt()
-        loggedInObj.click_signOut()
+        loggedInObj.click_signOu1t()
     })
 })
