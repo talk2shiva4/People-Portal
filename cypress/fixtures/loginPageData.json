@@ -1,10 +1,10 @@
 {
-    "admin_username" : "CPD_Admin",
+    "admin_username" : "mmishra@copperpoddigital.com",
     "admin_password" : "test123",
-    "super_username" : "CPD_user",
+    "super_username" : "rramachander@copperpoddigital.com",
     "super_password" : "test123",
-    "hyper_username" : "dale",
-    "hyper_password" : "dale1234",
-    "normal_username" : "jode",
-    "normal_password" : "jode1234"
+    "hyper_username" : "ryan.d@copperpoddigital.com",
+    "hyper_password" : "test123",
+    "normal_username" : "shiv.a@copperpoddigital.com",
+    "normal_password" : "test123"
 }
